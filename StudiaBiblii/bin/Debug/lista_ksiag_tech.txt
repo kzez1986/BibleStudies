@@ -1,0 +1,75 @@
+01 Rodzaju
+02 Wyjścia
+03 Kapłańska
+04 Liczb
+05 Powtórzonego Prawa
+06 Jozuego
+07 Sędziów
+08 Rut
+09 1 Samuela
+10 2 Samuela
+11 1 Królewska
+12 2 Królewska
+13 1 Kronik
+14 2 Kronik
+15 Ezdrasza
+16 Nehemiasza
+17 Estery
+18 Hioba
+19 Psalmów
+20 Przysłów
+21 Koheleta (Kaznodziei)
+22 Pieśń nad Pieśniami
+23 Izajasza
+24 Jeremiasza
+25 Lamentacje (Treny)
+26 Ezechiela
+27 Daniela
+28 Ozeasza
+29 Joela
+30 Amosa
+31 Abdiasza
+32 Jonasza
+33 Micheasza
+34 Nahuma
+35 Habakuka
+36 Sofoniasza
+37 Aggeusza
+38 Zachariasza
+39 Malachiasza
+40 Tobiasza
+41 Judyty
+42 Estery (gr)
+43 Mądrości
+44 Mądrość Syracha (Eklezjastyk)
+45 Barucha
+46 Daniela (gr)
+47 1 Machabejska
+48 2 Machabejska
+49 Mateusza
+50 Marka
+51 Łukasza
+52 Jana
+53 Dzieje Apostolskie
+54 Rzymian
+55 1 Koryntian
+56 2 Koryntian
+57 Galacjan
+58 Efezjan
+59 Filipian
+60 Kolosan
+61 1 Tesaloniczan
+62 2 Tesaloniczan
+63 1 Tymoteusza
+64 2 Tymoteusza
+65 Tytusa
+66 Filemona
+67 Hebrajczyków
+68 Jakuba
+69 1 Piotra
+70 2 Piotra
+71 1 Jana
+72 2 Jana
+73 3 Jana
+74 Judy
+75 Objawienie

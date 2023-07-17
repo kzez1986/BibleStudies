@@ -1,0 +1,9 @@
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\bin\Debug\StudiaBiblii.exe
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\bin\Debug\StudiaBiblii.pdb
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\StudiaBiblii.Form1.resources
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\StudiaBiblii.Properties.Resources.resources
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\StudiaBiblii.exe
+c:\Users\Jakub\Documents\Visual Studio 2010\Projects\StudiaBiblii\StudiaBiblii\obj\x86\Debug\StudiaBiblii.pdb
